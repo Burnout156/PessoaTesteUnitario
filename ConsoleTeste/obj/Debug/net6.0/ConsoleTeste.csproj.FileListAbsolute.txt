@@ -1,0 +1,15 @@
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.exe
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.deps.json
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.runtimeconfig.json
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.dll
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.pdb
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.csproj.AssemblyReference.cache
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.AssemblyInfoInputs.cache
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.AssemblyInfo.cs
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.csproj.CoreCompileInputs.cache
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.dll
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\refint\ConsoleTeste.dll
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.pdb
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.genruntimeconfig.cache
+E:\Projetos\TesteUnitarioIdade\ConsoleTeste\obj\Debug\net6.0\ref\ConsoleTeste.dll
