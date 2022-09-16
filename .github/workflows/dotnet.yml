@@ -24,7 +24,8 @@ jobs:
         dotnet-version: 6.0.x
         path: ".TesteUnitarioIdade/"
     - name: Restore dependencies
-      run: dotnet restore ./ConsoleTeste/ConsoleTeste.csproj ./TesteUnitarioIdade/TesteUnitarioIdade.csproj
+      run: dotnet restore ./TesteUnitarioIdade/TesteUnitarioIdade.csproj
+      #run: dotnet restore ./ConsoleTeste/ConsoleTeste.csproj
     - name: Build
       run: dotnet build --no-restore
     - name: Test
