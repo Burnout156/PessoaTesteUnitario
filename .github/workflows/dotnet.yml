@@ -17,16 +17,16 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
-        path: ".ConsoleTeste/"
+        path: "./ConsoleTeste"
     - name: Setup .NET UnitTest
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
-        path: ".TesteUnitarioIdade/"
+        path: "./TesteUnitarioIdade"
     - name: Restore dependencies
       run: dotnet restore ./TesteUnitarioIdade/TesteUnitarioIdade.csproj
       #run: dotnet restore ./ConsoleTeste/ConsoleTeste.csproj
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build ./ConsoleTeste/ConsoleTeste.csproj --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test ./TesteUnitarioIdade/TesteUnitarioIdade.csproj --no-build --verbosity normal
